@@ -36,7 +36,7 @@
     <message>
         <location filename="../src/qml/BookmarkItem.qml" line="158"/>
         <source>Icon URL</source>
-        <translation type="unfinished">URL de l&apos;icône</translation>
+        <translation type="unfinished">Lien de l&apos;icône</translation>
     </message>
     <message>
         <location filename="../src/qml/BookmarkItem.qml" line="172"/>
